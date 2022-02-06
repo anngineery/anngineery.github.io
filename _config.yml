@@ -24,7 +24,7 @@ urls:
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: lucy_face.png
+author_logo: lucy_face_edit.png
 author: Ann Yun
 author_bio: Hi, my name is Ann, I am ...
 author_email: "by.ann.yun@gmail.com"
