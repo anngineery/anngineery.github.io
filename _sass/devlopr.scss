@@ -178,7 +178,8 @@ blockquote {
 
  /* width */
  ::-webkit-scrollbar {
-    width: 10px;
+    /*width: 10px;*/
+    display: none;
  }
 
   /* Track */
@@ -632,7 +633,7 @@ header {
 }
 
 #recent-articles,#recent-projects{
-    margin-top: 100px !important;
+    margin-top: 50px !important;
 }
 
 #recent-articles-header{
